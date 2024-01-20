@@ -32,7 +32,7 @@ def main(e=None):
         calculated1.relative_click([92, 11])
         time.sleep(0.5)
         # 点击兑换码
-        calculated1.relative_click([84, 20])
+        calculated1.relative_click([84, 28])
         time.sleep(0.5)
         # 点击兑换码输入框
         calculated1.relative_click([34, 52])
